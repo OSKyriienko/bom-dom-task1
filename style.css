@@ -1,0 +1,11 @@
+input {
+	margin-right: 10px;
+}
+
+.wrong {
+	border: 2px solid red;
+}
+
+.right {
+	border: 2px solid green;
+}
